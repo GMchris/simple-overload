@@ -1,0 +1,24 @@
+{
+  "name": "simple-overload",
+  "version": "1.0.0",
+  "description": "A simple method overloading library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMchris/simple-overload.git"
+  },
+  "keywords": [
+    "overloading",
+    "overload",
+    "method"
+  ],
+  "author": "Kristian Ignatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GMchris/simple-overload/issues"
+  },
+  "homepage": "https://github.com/GMchris/simple-overload#readme"
+}
